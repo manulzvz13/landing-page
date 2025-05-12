@@ -7,4 +7,45 @@ body {
     box-sizing: border-box;
     display: flex;
     flex-direction: column;
+    font-family: 'Roboto';
 }
+
+ul {
+    list-style-type: none;
+    margin: auto;
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    padding: 15px 0;
+    background: #1F2937;
+}
+
+.header-logo,
+.nav-bar {
+    flex: 1;
+}
+
+.header-logo {
+    display: flex;
+    justify-content: flex-start;
+    margin-left: 100px;
+    color: #F9FAF8;
+    font-size: 24px;
+}
+
+.nav-bar {
+    display: flex;
+    margin: auto    ;
+    justify-content: center;
+}
+
+.nav-bar ul{
+    display: flex;
+    gap: 15px;
+    color: #E5E7EB;
+}
+
+
+
