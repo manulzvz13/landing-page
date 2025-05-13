@@ -144,3 +144,26 @@ ul {
     text-align: center;
 }
 
+/* Section Two */
+
+.section-two {
+    background-color: #E5E7EB;
+    display: flex;
+    flex-direction: column;
+    padding: 200px 100px;
+}
+
+.section-two-quote {
+    font-size: 36px;
+    font-weight: 200;
+    color: #1F2937;
+    padding: 0 200px;
+}
+
+.section-two-name {
+    font-size: 18px;
+    font-weight: 700;
+    display: flex;
+    justify-content: flex-end;
+    padding-right: 200px;
+}
