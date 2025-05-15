@@ -213,3 +213,16 @@ ul {
     margin: auto;
     margin-right: 170px;
 }
+
+/* Footer */
+
+.footer {
+    background-color: #1F2937;
+    display: flex;
+    height: 100px;
+}
+
+.footer p {
+    margin: auto;
+    color: #E5E7EB;
+}
