@@ -167,3 +167,49 @@ ul {
     justify-content: flex-end;
     padding-right: 200px;
 }
+
+/* Call to action */
+
+.call-to-action {
+    background-color: #fff;
+    display: flex;
+    padding: 200px 100px;
+    justify-content: center;
+}
+
+.modal {
+    background-color: #3882F6;
+    border-radius: 8px;
+    display: flex;
+    width: 1200px;
+    height: 220px;
+}
+
+.modal h4 {
+    color: #F9FAF8;
+    font-size: 28px;
+}
+
+.modal p {
+    color: #E5E7EB;
+    font-size: 20px;
+}
+
+.modal-main-section {
+    display: flex;
+    flex-direction: column;
+    padding: 80px 180px;
+}
+
+.modal button {
+    background-color: #3882F6;
+    color: #F9FAF8;
+    border-radius: 5px;
+    border: solid;
+    border-color: #F9FAF8 ;
+    padding: 5px 15px;
+    height: 45px;
+    width: 100px;
+    margin: auto;
+    margin-right: 170px;
+}
